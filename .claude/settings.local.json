@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "WebFetch(domain:infrared.gg)",
+      "WebFetch(domain:www.whatfontis.com)",
+      "Bash(curl:*)",
+      "Bash(git:*)"
+    ]
+  }
+}
